@@ -44,9 +44,17 @@ Then open in your browser:
 
 ## References
 
+### Connectome & Database
 - **FlyWire Codex:** https://codex.flywire.ai/
 - **Connectome:** MaleCNS v1.0 (male Drosophila melanogaster)
 - **Data:** `connectome_data/malecns_v1/annotations.feather` + `outputs/doom/malecns_v1/graph.npz`
+
+### CT1 Neuron Biology
+- **Extreme Compartmentalization in a Drosophila Amacrine Cell**
+  - Current Biology (2019)
+  - https://www.cell.com/current-biology/fulltext/S0960-9822(19)30398-7
+  - Shows CT1 neurons function as collections of semi-independent compartments, not simple point neurons
+  - Critical for accurate biophysical modeling
 
 ## Next Steps
 
