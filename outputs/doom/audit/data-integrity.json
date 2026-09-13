@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checked_at": "2026-09-05T19:57:51Z",
+  "checked_at": "2026-09-11T17:42:46Z",
   "dataset": "MaleCNS v1.0 male brain and VNC",
   "neurons": 166700,
   "retained_glia": 0,
@@ -9,7 +9,7 @@
     "neurotransmitters.feather": "95c9289220663abeb3409f3ad9e5a7f8a53f8093f5139d15502cd08da8879621",
     "edges.feather": "e35da783d1c686b2b58b3b87cd6a403ae43bfcfba8bff28e08ef752c1a56afc1"
   },
-  "graph_sha256": "346b8af85a11af13b8324e18669812c1924569e7d1adcb4e6f45cc461a2c344b",
+  "graph_sha256": "fcd8c9cd5dbf7de751da339cf644c32e2d05f32304aa3f0d8a6512446290d061",
   "edge_checks": {
     "source_edges": 151856684,
     "retained_edges": 25582938,

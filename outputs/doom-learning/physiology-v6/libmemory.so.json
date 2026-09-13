@@ -1,0 +1,11 @@
+{
+  "model": "adaptive-centered-v6",
+  "source_sha256": "e2d4d584f4633613277bb1bf6ea7ba20855c01a332ae2e9344ed7782604c8509",
+  "binary_sha256": "fa8024d996ebd3665dc1f730a7522a9e8a4e30799e6db9f208c62058d330fa4d",
+  "flags": [
+    "-O3",
+    "-std=c++17",
+    "-shared",
+    "-fPIC"
+  ]
+}
